@@ -1,0 +1,54 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. Fonts
+2. Body and some general stuff
+3. Header
+	3.1 Top Bar
+	3.2 Logo
+	3.3 Main Nav
+	3.4 Menu
+4. Home
+	4.1 Home Slider
+	4.2 Home Slider Nav
+	4.3 Home Slider Dots
+5. Search
+6. Section Title
+7. Rating
+8. Search
+	8.1 Search Extras
+	8.2 Search More Options
+9. Offers
+	9.1 Sorting
+	9.2 Offers Grid
+10. Footer
+	10.1 Footer - About
+	10.2 Footer - Blog
+	10.3 Footer - Tags
+	10.4 Footer - Contact Info
+11. Copyright
+
+
+******************************/
+
+/***********
+1. Fonts
+***********/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+@font-face
+{
+	font-family: 'Beyond';
+	src: url('../fonts/beyond_the_mountains.otf')  format('truetype'),
+		 url('../fonts/beyond_the_mountains.ttf')  format('opentype');
+}
+
+/*********************************
+2. Body and some general stuff
+*********************************/
+
+
